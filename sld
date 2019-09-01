@@ -1,1 +1,1 @@
-http://panel2.cdnstreamserver.com/live/solidariatv-webhd.m3u8
+http://canaderemar2.todostreaming.es/live/solidariatv-webhd.m3u8
