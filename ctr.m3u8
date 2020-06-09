@@ -1,2 +1,3 @@
 #EXTM3U
+#EXT-X-STREAM-INF:
 http://linear02-i.akamaihd.net/hls/live/837811/cuatro/02.m3u8
