@@ -1,2 +1,3 @@
 #EXTM3U
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXT-X-STREAM-INF:
+http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8
