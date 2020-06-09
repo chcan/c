@@ -1,1 +1,3 @@
-https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:
+https://paramount-live.flumotion.com/live/chunks.m3u8
