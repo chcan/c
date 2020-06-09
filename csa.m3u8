@@ -1,2 +1,3 @@
 #EXTM3U
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+#EXT-X-STREAM-INF:
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000.m3u8
