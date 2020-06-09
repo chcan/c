@@ -1,2 +1,3 @@
 #EXTM3U
-https://rt-esp.secure.footprint.net/1102.m3u8
+#EXT-X-STREAM-INF:
+https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
