@@ -1,2 +1,3 @@
 #EXTM3U
-https://livestreamcdn.net:444/Alientoenvivo/smil:Alientoenvivo.smil/playlist.m3u8
+#EXT-X-STREAM-INF:
+https://livestreamcdn.net:444/Alientoenvivo/smil:Alientoenvivo.smil/chunklist_w696366531_b1300000_slen.m3u8
