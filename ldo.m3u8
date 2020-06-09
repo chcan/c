@@ -1,2 +1,3 @@
 #EXTM3U
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+#EXT-X-STREAM-INF:
+https://rtvelivestream.akamaized.net/la2_dvr_2750.m3u8
