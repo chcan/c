@@ -1,2 +1,3 @@
 #EXTM3U
+#EXT-X-STREAM-INF:
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
