@@ -1,2 +1,3 @@
 #EXTM3U
+#EXT-X-STREAM-INF:
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
