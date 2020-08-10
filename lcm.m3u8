@@ -1,2 +1,3 @@
 #EXTM3U
+#EXT-X-STREAM-INF:
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
